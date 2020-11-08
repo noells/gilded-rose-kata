@@ -1,4 +1,9 @@
 # Gilded Rose Kata 
+
+[![Kotlin CI](https://github.com/noells/gilded-rose-kata/workflows/Kotlin%20CI%20with%20Gradle/badge.svg)](https://github.com/noells/gilded-rose-kata/actions)
+
+
+# Description
 Kotlin implementation of the Gilded Rose Kata. The kata has been implemented using TDD from zero, instead of starting with some code and refactor it.
 
 The kata explanation: 
