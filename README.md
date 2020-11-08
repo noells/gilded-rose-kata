@@ -4,7 +4,7 @@
 
 
 # Description
-Kotlin implementation of the Gilded Rose Kata. The kata has been implemented using TDD from zero, instead of starting with some code and refactor it.
+Kotlin implementation of the Gilded Rose Kata. Instead of using the kata as a refactoring one starting from an existing base code, I implemented it from scratch, following an outside-inn TDD approach.
 
 The kata explanation: 
 
